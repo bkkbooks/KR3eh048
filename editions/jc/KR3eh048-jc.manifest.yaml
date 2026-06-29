@@ -1,0 +1,193 @@
+canonical_identifier: bkk:krp/KR3eh048/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh048/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 癲狂條辯
+  identifiers:
+    krp: KR3eh048
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh048.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh048_000-jc.yaml, hash: 'sha256:140158456c234c93fadbe72687142835945cf3e17c1fac297515d5dbfc5f2e54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh048_000-jc.markers.yaml, hash: 'sha256:7267ad914bf2b2b6674ee0ce6a3ae7fc05cf40dbea7aafb8c059400a6e738167'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 628
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 3754
+  label: 癲狂總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d4
+    span:
+    - body
+    - 551
+    - 709
+  label: 審脈以辨虛實
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d5
+    span:
+    - body
+    - 709
+    - 1027
+  label: 審色以辨淺深
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d6
+    span:
+    - body
+    - 1027
+    - 1493
+  label: 審症以辨經絡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d7
+    span:
+    - body
+    - 1493
+    - 1743
+  label: 審方以辨先後
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d8
+    span:
+    - body
+    - 1743
+    - 2132
+  label: 五臟分治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d9
+    span:
+    - body
+    - 2132
+    - 2254
+  label: 五臟合病治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d10
+    span:
+    - body
+    - 2254
+    - 2313
+  label: 伏火上炎治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d11
+    span:
+    - body
+    - 2313
+    - 2369
+  label: 狂轉癲症治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d12
+    span:
+    - body
+    - 2369
+    - 2479
+  label: 直中癲症治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d13
+    span:
+    - body
+    - 2479
+    - 2539
+  label: 心神不安治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d14
+    span:
+    - body
+    - 2539
+    - 2635
+  label: 將愈吉兆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d15
+    span:
+    - body
+    - 2635
+    - 2754
+  label: 愈後宜調理
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d16
+    span:
+    - body
+    - 2754
+    - 3062
+  label: 應用諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d17
+    span:
+    - body
+    - 3062
+    - 3510
+  label: 附痰飲辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh048_jc_000-d3d18
+    span:
+    - body
+    - 3510
+    - 3754
+  label: 附錄癲犬咬方
+  type: section
+  level: 2
+hash: sha256:81d417dfbe943defbc098547af0297b2728ee196f9934a0e24a307747299dd13
