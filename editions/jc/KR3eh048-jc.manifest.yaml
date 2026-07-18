@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh048_000-jc.yaml, hash: 'sha256:140158456c234c93fadbe72687142835945cf3e17c1fac297515d5dbfc5f2e54'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh048_000-jc.markers.yaml, hash: 'sha256:7267ad914bf2b2b6674ee0ce6a3ae7fc05cf40dbea7aafb8c059400a6e738167'}
+  - {seq: 0, role: markers, filename: assets/KR3eh048_000-jc.markers.yaml, hash: 'sha256:eae07a954059b732f6c8bd168a2921d1b03fd724cb79e6b3c9f5fc55bac9df74'}
 table_of_contents:
 - ref:
     seq: 0
@@ -190,4 +190,4 @@ table_of_contents:
   label: 附錄癲犬咬方
   type: section
   level: 2
-hash: sha256:81d417dfbe943defbc098547af0297b2728ee196f9934a0e24a307747299dd13
+hash: sha256:a2408a68ba9f598d5957c23e83b16500b0f668ffb5afc5f4ee809d063a526f9f
